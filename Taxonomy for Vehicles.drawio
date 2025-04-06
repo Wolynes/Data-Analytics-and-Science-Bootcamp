@@ -241,7 +241,7 @@
         <mxCell id="RKNTKc_IDqrReHNZ2jKo-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RKNTKc_IDqrReHNZ2jKo-13" target="RKNTKc_IDqrReHNZ2jKo-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RKNTKc_IDqrReHNZ2jKo-13" value="Cabin&lt;div&gt;is less than&lt;/div&gt;&lt;div&gt;Half&lt;/div&gt;&lt;div&gt;of the&lt;/div&gt;&lt;div&gt;Vehicle&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#D81D29,#FF9933);fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#A50040,#FFFFFF);strokeWidth=8;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="RKNTKc_IDqrReHNZ2jKo-13" value="Unpainted&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;Triangular&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#D81D29,#FF9933);fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#A50040,#FFFFFF);strokeWidth=8;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-230" y="-470" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="RKNTKc_IDqrReHNZ2jKo-15" value="Tesla Cybertruck" style="whiteSpace=wrap;html=1;fontSize=15;fillColor=light-dark(#D81D29,#FF9933);strokeColor=light-dark(#A50040,#FFFFFF);fontColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=8;fontStyle=1;" vertex="1" parent="1">
