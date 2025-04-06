@@ -65,7 +65,7 @@
           <mxGeometry x="880" y="370" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="onK4h8JelgJyMHxKmDdq-25" value="Cargo Truck" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=light-dark(#2D7600,#990000);fontColor=light-dark(#ffffff, #00f900);fillStyle=solid;strokeWidth=7;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="675" y="-150" width="120" height="60" as="geometry" />
+          <mxGeometry x="675" y="-200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="onK4h8JelgJyMHxKmDdq-27" value="Freight Train" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=light-dark(#2D7600,#990000);fontColor=light-dark(#ffffff, #00f900);fillStyle=solid;strokeWidth=7;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="1080" y="205" width="120" height="60" as="geometry" />
@@ -122,7 +122,10 @@
         <mxCell id="onK4h8JelgJyMHxKmDdq-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="1" source="onK4h8JelgJyMHxKmDdq-50" target="onK4h8JelgJyMHxKmDdq-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="onK4h8JelgJyMHxKmDdq-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="1" source="onK4h8JelgJyMHxKmDdq-50" target="onK4h8JelgJyMHxKmDdq-67" edge="1">
+        <mxCell id="RKNTKc_IDqrReHNZ2jKo-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="onK4h8JelgJyMHxKmDdq-50" target="RKNTKc_IDqrReHNZ2jKo-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKNTKc_IDqrReHNZ2jKo-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="onK4h8JelgJyMHxKmDdq-50" target="RKNTKc_IDqrReHNZ2jKo-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="onK4h8JelgJyMHxKmDdq-50" value="Powered&lt;div&gt;by&lt;/div&gt;&lt;div&gt;Human&lt;/div&gt;&lt;div&gt;Effort&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#D81D29,#FF9933);fontColor=light-dark(#FFFFFF,#FFFF66);strokeColor=light-dark(#A50040,#CCFFCC);strokeWidth=8;fontSize=15;" parent="1" vertex="1">
@@ -137,11 +140,14 @@
         <mxCell id="onK4h8JelgJyMHxKmDdq-52" value="Engine&amp;nbsp;&lt;div&gt;Powered&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#D81D29,#FF9933);fontColor=light-dark(#ffffff, #e32400);strokeColor=light-dark(#A50040,#FF6666);strokeWidth=8;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-20" y="160" width="130" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="RKNTKc_IDqrReHNZ2jKo-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="onK4h8JelgJyMHxKmDdq-60" target="onK4h8JelgJyMHxKmDdq-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="onK4h8JelgJyMHxKmDdq-60" value="Bicycle" style="whiteSpace=wrap;html=1;fillColor=light-dark(#D81D29,#FF9933);strokeColor=light-dark(#A50040,#CCFFCC);fontColor=light-dark(#FFFFFF,#FFFF66);strokeWidth=8;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="405" y="-15" width="120" height="60" as="geometry" />
+          <mxGeometry x="405" y="-230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="onK4h8JelgJyMHxKmDdq-67" value="Skateboard" style="whiteSpace=wrap;html=1;fillColor=light-dark(#D81D29,#FF9933);strokeColor=light-dark(#A50040,#CCFFCC);fontColor=light-dark(#FFFFFF,#FFFF66);strokeWidth=8;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="540" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="545" y="-310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="onK4h8JelgJyMHxKmDdq-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="1" source="onK4h8JelgJyMHxKmDdq-69" target="onK4h8JelgJyMHxKmDdq-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -243,6 +249,15 @@
         </mxCell>
         <mxCell id="RKNTKc_IDqrReHNZ2jKo-17" value="Pick Up Truck" style="whiteSpace=wrap;html=1;fontSize=15;fillColor=light-dark(#D81D29,#FF9933);strokeColor=light-dark(#A50040,#FF0000);fontColor=light-dark(#FFFFFF,#FF0000);strokeWidth=8;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="-645" y="-225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKNTKc_IDqrReHNZ2jKo-20" value="Two Wheels" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#D81D29,#FF9933);fontColor=light-dark(#FFFFFF,#FFFF66);strokeColor=light-dark(#A50040,#CCFFCC);strokeWidth=8;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-50" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="RKNTKc_IDqrReHNZ2jKo-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RKNTKc_IDqrReHNZ2jKo-22" target="onK4h8JelgJyMHxKmDdq-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKNTKc_IDqrReHNZ2jKo-22" value="Four&lt;div&gt;Wheels&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#D81D29,#FF9933);fontColor=light-dark(#FFFFFF,#FFFF66);strokeColor=light-dark(#A50040,#CCFFCC);strokeWidth=8;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-150" width="130" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
